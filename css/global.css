@@ -1,0 +1,15 @@
+.resources {
+	padding: 50px 10px;
+}
+
+.download {
+	background-color: blue;
+	padding: 10px;
+	margin: 5px;
+}
+
+a {
+	color: white;
+	text-decoration: none;
+	border-radius: 10px;
+}
