@@ -3,13 +3,21 @@
 }
 
 .download {
-	background-color: blue;
 	padding: 10px;
 	margin: 5px;
 }
 
 a {
+	color: blue;
+	background-color: white;
+	text-decoration: none;
+	border: 1px blue solid;
+	border-radius: 10px;
+}
+
+a:hover {
 	color: white;
+	background-color: blue;
 	text-decoration: none;
 	border-radius: 10px;
 }
